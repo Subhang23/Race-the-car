@@ -42,7 +42,7 @@ $ python Race_the_car.py
 In this game two players need to reach the desired destination(the finish flag of respective colors), the one reaching first will win the game.
 
 ## Twist
-To make game interesting each player is provided with 8 fences to make opponent's path difficult.
+To make the game interesting each player is provided with 8 fences to make the opponent's path difficult.
 
 ## Rules
 * When its your turn, you can move your car forward, backward, left or right; only one square at a time or can either put up a fence.  
